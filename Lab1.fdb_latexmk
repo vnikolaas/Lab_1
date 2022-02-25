@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1645745287 "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.tex" "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.pdf" "Lab1" 1645745287
-  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.aux" 1645745287 756 7931ec919023d93aae5f8440f9c63a78 ""
-  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.tex" 1645745286 3189 b6824bab484ce70e1d08e54d7e5acd06 ""
+["pdflatex"] 1645749391 "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.tex" "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.pdf" "Lab1" 1645751609
+  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.aux" 1645749392 651 cd3a86ec26680bb9c55658cc3dccd048 ""
+  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.tex" 1645751607 3216 9771993c2ad3d442f4c5eba446579135 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -44,11 +44,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1645658824 2724734 fee200014c1552213be5f732b89f5ec4 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "Lab1.aux" 1645745287 756 7931ec919023d93aae5f8440f9c63a78 "pdflatex"
-  "Lab1.tex" 1645745286 3189 b6824bab484ce70e1d08e54d7e5acd06 ""
+  "Lab1.aux" 1645749392 651 cd3a86ec26680bb9c55658cc3dccd048 "pdflatex"
+  "Lab1.tex" 1645751607 3216 9771993c2ad3d442f4c5eba446579135 ""
   (generated)
-  "Lab1.aux"
-  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.log"
-  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.pdf"
   "Lab1.pdf"
+  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.log"
+  "Lab1.aux"
   "Lab1.log"
+  "/Users/nikolai/Documents/Modern_2022/Labs/Lab_1/Lab1.pdf"
